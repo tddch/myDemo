@@ -1,5 +1,6 @@
 package com.example.liujian.ui.discover;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -24,6 +25,9 @@ import com.example.liujian.bean.DiscoverTabBean;
 import com.example.liujian.bean.DiscoverTopicBean;
 import com.example.liujian.inesenter.discover.IDiscover;
 import com.example.liujian.presnter.tongpao.discover.DiscoverPresenter;
+import com.example.liujian.ui.discover.paihang.PaiHangActivity;
+import com.example.liujian.ui.discover.paozi.PaoZiActivity;
+import com.example.liujian.ui.discover.shetuan.SheTuanActivity;
 import com.google.android.material.tabs.TabLayout;
 
 import java.util.ArrayList;
@@ -136,16 +140,23 @@ public class DiscoverFragment extends BaseFragment<DiscoverPresenter> implements
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.iv_paozi:
+                startActivity(new Intent(getActivity(), PaoZiActivity.class));
                 break;
             case R.id.iv_shetuan:
+                startActivity(new Intent(getActivity(), SheTuanActivity.class));
+
                 break;
             case R.id.iv_paihang:
+                startActivity(new Intent(getActivity(), PaiHangActivity.class));
                 break;
             case R.id.tv_paozi:
+                startActivity(new Intent(getActivity(), PaoZiActivity.class));
                 break;
             case R.id.tv_shetuan:
+                startActivity(new Intent(getActivity(), SheTuanActivity.class));
                 break;
             case R.id.tv_paihang:
+                startActivity(new Intent(getActivity(), SheTuanActivity.class));
                 break;
         }
     }
