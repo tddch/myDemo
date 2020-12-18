@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d03059-74d5-4648-a108-b45a81844993" name="Default Changelist" comment="">
+    <list default="true" id="0bb105c2-791d-48be-863c-a2c8f545cf1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../LiuJian.patch" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1lpQbRjqJRMASfLDh4g7q0d4UAd" />
+  <component name="ProjectId" id="1lpRQwAz1RZZdj62e3sPyViwdxg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,9 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-    <property name="vcs.patch.path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -108,22 +106,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91d03059-74d5-4648-a108-b45a81844993" name="Default Changelist" comment="" />
-      <created>1608291623071</created>
+      <changelist id="0bb105c2-791d-48be-863c-a2c8f545cf1b" name="Default Changelist" comment="" />
+      <created>1608292033054</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608291623071</updated>
+      <updated>1608292033054</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="628" y="141" key="CommitChangelistDialog2" timestamp="1608292017178">
+    <state x="593" y="113" key="CommitChangelistDialog2" timestamp="1608292114081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="628" y="141" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608292017178" />
-    <state x="932" y="299" key="FileChooserDialogImpl" timestamp="1608291797398">
+    <state x="593" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608292114081" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608292118036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="932" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608291797398" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608292118036" />
   </component>
 </project>
